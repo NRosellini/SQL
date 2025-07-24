@@ -1,5 +1,0 @@
-"id_metodo_pago","tipo_pago","cuotas","recargo","moneda"
-1,"tarjeta debito",1,1.15,"ARS"
-2,"transferencia",1,1.05,"ARS"
-3,"efectivo",1,0.0,"ARS"
-4,"tarjeta credito",12,1.15,"ARS"
